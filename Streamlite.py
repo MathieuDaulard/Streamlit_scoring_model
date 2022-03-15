@@ -160,6 +160,9 @@ def df_data():
         df = pd.read_csv(f)
         #df = df.drop('Unnamed: 0', axis = 1)
         df.set_index('SK_ID_CURR',inplace = True)
+        df[['Revenus', 'Montant_credit', 'Cout_annuel_credit', 'Valeur_bien_finance',
+       'Annuite/revenus']] = df[['Revenus', 'Montant_credit', 'Cout_annuel_credit', 'Valeur_bien_finance',
+       'Annuite/revenus']].round(2)
         df['Solvabilite'] = load_model(df_data_scaled()).values
     return df
 
