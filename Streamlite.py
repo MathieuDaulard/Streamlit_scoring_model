@@ -2,7 +2,6 @@ import streamlit as st
 import joblib
 import pandas as pd
 import matplotlib.pyplot as plt
-import pylab as pl
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
@@ -120,8 +119,8 @@ st.title('Vérification solvabilité financière client')
 with st.expander("Description de l'application"):
      st.write("""
          Dashbord permettant de vérifier la solvabilité financière d'un client pour l'octroie d'un prêt. 
-         Ce client peut être comparé à des clients solvable et non solvables ayant des profils proche.
-         Ainsi qu'analyser l'impact de la solvabilité ou non des clients suivants certains critères.
+         Nous pouvons comparer ce client à des clients similaires solvables ou non solvables, ainsi
+         que vérifier l'impact des caractéristiques des clients sur leur solvabilité.
      """)
 
 def open_test_data(url):
@@ -173,7 +172,7 @@ def df_data_scaled():
     return df_scaled
 
 
-Customer_id = st.selectbox('Enter the SK_ID customer you want to display', df_data().index)
+Customer_id = st.selectbox("Entrez l'identifiant du client que vous souhaitez analyser", df_data().index)
 Customer_id = int(Customer_id)
 
 
