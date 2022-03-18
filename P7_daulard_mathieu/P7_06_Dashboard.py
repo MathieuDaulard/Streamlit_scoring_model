@@ -243,7 +243,8 @@ for i in data_fig['Solvabilite'].unique():
 
 fig_col1, fig_col2 = st.columns(2)
 
-fig = px.bar(data_fig, x = 'Solvabilite', y = 'Cout_annuel_credit', color = Categ, text=data_fig['Pourcentage'], title='Revenus vs Coût crédit')
+fig = px.bar(data_fig, x = 'Solvabilite', y = 'Cout_annuel_credit', color = Categ, text=data_fig['Pourcentage'], labels={
+                     "Cout_annuel_credit": "Nombre individus"}, title='Revenus vs Coût crédit')
 
 fig_col1.plotly_chart(fig, use_container_width=True)
 
