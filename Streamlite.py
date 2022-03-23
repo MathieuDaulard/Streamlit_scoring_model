@@ -162,7 +162,7 @@ def df_data():
         #df = df.drop('Unnamed: 0', axis = 1)
         df.set_index('SK_ID_CURR',inplace = True)
         
-        df['Solvabilite'] = load_model(df.index).values
+        df['Solvabilite'] = load_model(df.index.to_list()).values
     return df
 
 @st.cache
