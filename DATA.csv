@@ -1,101 +1,101 @@
 SK_ID_CURR,Type_credit,Genre,Voiture,Proprietaire,Enfants,Revenus,Montant_credit,Cout_annuel_credit,Valeur_bien_finance,Anciennete_emploi_actuel,Taille_foyer,Annuite/revenus,Age,Education,Statut_Marital
-115030,cash_credit,homme,True,False,0,184500.0,786528.0,50395.5,720000.0,Non connue,2.0,0.27,61.0,Secondary _ secondary special,Marie
-188264,cash_credit,femme,False,False,2,135000.0,387000.0,14719.5,387000.0,1a  1m  18j,3.0,0.11,32.0,Secondary _ secondary special,Celibataire
-230236,cash_credit,homme,False,False,0,382500.0,1258650.0,52074.0,1125000.0,2a  11m  5j,2.0,0.14,58.0,Secondary _ secondary special,Marie
-135960,cash_credit,femme,True,False,1,225000.0,1569285.0,62365.5,1345500.0,0a  2m  24j,3.0,0.28,29.0,Secondary _ secondary special,Marie
-336407,cash_credit,homme,False,False,1,112500.0,1032092.94,42723.0,922500.0,2a  9m  5j,3.0,0.38,29.0,Secondary _ secondary special,Marie
-223288,cash_credit,homme,False,False,0,202500.0,630000.0,50643.0,630000.0,4a  8m  6j,2.0,0.25,45.0,Secondary _ secondary special,PACS
-309125,cash_credit,homme,False,False,1,180000.0,278460.0,21676.5,225000.0,3a  2m  20j,3.0,0.12,34.0,Secondary _ secondary special,Marie
-300544,cash_credit,femme,True,False,2,202500.0,1546020.0,45333.0,1350000.0,3a  2m  23j,4.0,0.22,34.0,Secondary _ secondary special,Marie
-353036,cash_credit,homme,False,True,0,76500.0,199080.0,11556.0,157500.0,3a  11m  0j,2.0,0.15,29.0,Secondary _ secondary special,Marie
-307675,cash_credit,femme,True,True,0,126000.0,137520.0,5314.5,90000.0,0a  9m  9j,2.0,0.04,56.0,Secondary _ secondary special,PACS
-362263,cash_credit,homme,True,True,0,67500.0,78192.0,6268.5,67500.0,Non connue,2.0,0.09,56.0,Secondary _ secondary special,Marie
-106914,cash_credit,homme,True,False,0,112500.0,256500.0,18792.0,256500.0,7a  6m  23j,2.0,0.17,50.0,Secondary _ secondary special,Marie
-348509,cash_credit,homme,True,True,0,67500.0,728460.0,38938.5,675000.0,Non connue,2.0,0.58,58.0,Higher education,Marie
-278863,cash_credit,homme,False,False,0,135000.0,178213.5,13932.0,144000.0,0a  7m  12j,1.0,0.1,41.0,Secondary _ secondary special,Separe
-167550,cash_credit,femme,False,False,1,270000.0,894500.94,91786.5,855000.0,15a  7m  12j,3.0,0.34,50.0,Secondary _ secondary special,Marie
-127447,cash_credit,homme,False,False,0,81000.0,835380.0,33259.5,675000.0,Non connue,2.0,0.41,61.0,Secondary _ secondary special,Marie
-215419,cash_credit,homme,False,False,1,202500.0,787500.0,20902.5,787500.0,17a  12m  5j,2.0,0.1,45.0,Higher education,Separe
-281404,cash_credit,homme,False,False,0,162000.0,180000.0,12159.0,180000.0,2a  4m  12j,1.0,0.08,50.0,Secondary _ secondary special,Celibataire
-138834,cash_credit,femme,False,False,0,157500.0,170640.0,11533.5,135000.0,1a  0m  14j,2.0,0.07,44.0,Secondary _ secondary special,PACS
-445369,cash_credit,homme,False,True,0,157500.0,450000.0,32746.5,450000.0,2a  11m  29j,1.0,0.21,43.0,Secondary _ secondary special,Celibataire
-410085,cash_credit,homme,False,False,2,202500.0,549882.0,17869.5,459000.0,3a  3m  23j,4.0,0.09,34.0,Secondary _ secondary special,Marie
-346044,cash_credit,homme,False,True,2,67500.0,436032.0,20457.0,360000.0,1a  11m  9j,4.0,0.3,34.0,Secondary _ secondary special,Marie
-321419,cash_credit,femme,True,True,1,382500.0,900000.0,46084.5,900000.0,9a  11m  20j,3.0,0.12,44.0,Secondary _ secondary special,Marie
-218587,cash_credit,femme,False,True,0,121500.0,119925.0,12915.0,112500.0,2a  11m  9j,1.0,0.11,27.0,Incomplete higher,Celibataire
-108207,cash_credit,femme,False,False,1,315000.0,810000.0,41485.5,810000.0,2a  1m  21j,3.0,0.13,36.0,Secondary _ secondary special,Marie
-209692,cash_credit,homme,False,False,0,225000.0,601470.0,29065.5,450000.0,9a  8m  26j,2.0,0.13,46.0,Secondary _ secondary special,PACS
-358967,cash_credit,homme,False,False,0,90000.0,668304.0,26631.0,540000.0,Non connue,1.0,0.3,63.0,Secondary _ secondary special,veuf_veuve
-102640,cash_credit,homme,False,False,3,112500.0,239850.0,23364.0,225000.0,0a  11m  12j,5.0,0.21,38.0,Secondary _ secondary special,Marie
-410992,cash_credit,femme,False,False,0,135000.0,225000.0,10039.5,225000.0,8a  5m  24j,2.0,0.07,42.0,Secondary _ secondary special,Marie
-110619,cash_credit,homme,False,False,0,81000.0,942300.0,27549.0,675000.0,11a  9m  3j,2.0,0.34,59.0,Higher education,Marie
-433817,cash_credit,homme,True,True,0,94500.0,253377.0,9648.0,211500.0,Non connue,2.0,0.1,57.0,Higher education,Marie
-287903,cash_credit,homme,False,False,0,99000.0,107820.0,4878.0,90000.0,0a  3m  8j,1.0,0.05,60.0,Higher education,Separe
-179787,cash_credit,homme,False,False,1,202500.0,327024.0,21028.5,270000.0,11a  10m  11j,3.0,0.1,31.0,Secondary _ secondary special,Marie
-110726,cash_credit,homme,True,False,0,607500.0,2085120.0,72607.5,1800000.0,22a  10m  17j,1.0,0.12,57.0,Secondary _ secondary special,Celibataire
-432680,cash_credit,femme,True,False,2,202500.0,835604.94,27085.5,697500.0,4a  7m  2j,4.0,0.13,45.0,Secondary _ secondary special,Marie
-452669,cash_credit,homme,False,False,0,90000.0,239787.0,27247.5,207000.0,4a  11m  0j,1.0,0.3,28.0,Higher education,Celibataire
-172371,cash_credit,homme,False,False,0,112500.0,942300.0,27135.0,675000.0,Non connue,1.0,0.24,58.0,Higher education,Separe
-137530,cash_credit,femme,True,True,2,382500.0,1288350.0,37053.0,1125000.0,12a  11m  15j,4.0,0.1,49.0,Higher education,Marie
-420009,cash_credit,homme,False,False,1,99000.0,450000.0,23431.5,450000.0,0a  10m  6j,2.0,0.24,37.0,Secondary _ secondary special,Celibataire
-419646,cash_credit,homme,True,False,0,46350.0,171000.0,11898.0,171000.0,Non connue,2.0,0.26,58.0,Secondary _ secondary special,Marie
-300795,revolving,femme,True,True,0,135000.0,337500.0,16875.0,337500.0,2a  9m  15j,2.0,0.12,49.0,Secondary _ secondary special,Marie
-227948,revolving,homme,False,False,0,180000.0,225000.0,11250.0,225000.0,3a  8m  23j,2.0,0.06,30.0,Higher education,Marie
-141354,cash_credit,homme,False,False,0,405000.0,723996.0,37093.5,585000.0,1a  12m  0j,1.0,0.09,31.0,Higher education,Celibataire
-160967,cash_credit,homme,True,True,0,180000.0,704844.0,34038.0,630000.0,19a  3m  6j,1.0,0.19,49.0,Secondary _ secondary special,Celibataire
-386306,cash_credit,homme,False,False,0,72000.0,157500.0,8172.0,157500.0,Non connue,1.0,0.11,55.0,Secondary _ secondary special,Celibataire
-119807,cash_credit,homme,True,False,0,112500.0,514777.53,49005.0,477000.0,4a  12m  9j,2.0,0.44,54.0,Secondary _ secondary special,Marie
-334900,cash_credit,femme,True,False,0,225000.0,1288350.0,37800.0,1125000.0,7a  11m  20j,2.0,0.17,36.0,Secondary _ secondary special,Marie
-136112,cash_credit,homme,False,False,0,315000.0,728460.0,69295.5,675000.0,3a  3m  11j,1.0,0.22,35.0,Higher education,Celibataire
-119299,cash_credit,homme,False,False,3,157500.0,675000.0,34596.0,675000.0,8a  5m  6j,5.0,0.22,28.0,Higher education,Marie
-453228,cash_credit,femme,False,False,0,135000.0,302341.5,27859.5,261000.0,7a  9m  14j,2.0,0.21,34.0,Secondary _ secondary special,PACS
-433490,cash_credit,femme,False,True,0,202500.0,528633.0,36922.5,472500.0,1a  12m  2j,2.0,0.18,45.0,Secondary _ secondary special,Marie
-396909,cash_credit,femme,True,False,0,225000.0,1293502.5,37948.5,1129500.0,3a  1m  21j,2.0,0.17,52.0,Higher education,Marie
-275073,cash_credit,homme,False,True,1,117000.0,412560.0,11475.0,270000.0,0a  10m  17j,3.0,0.1,33.0,Secondary _ secondary special,PACS
-258668,cash_credit,femme,True,False,2,180000.0,263686.5,16258.5,238500.0,0a  3m  12j,4.0,0.09,39.0,Secondary _ secondary special,Marie
-330952,cash_credit,homme,True,True,0,112500.0,225000.0,17775.0,225000.0,7a  2m  23j,2.0,0.16,52.0,Higher education,Marie
-389108,cash_credit,homme,False,True,0,112500.0,544491.0,15916.5,454500.0,Non connue,1.0,0.14,65.0,Secondary _ secondary special,Celibataire
-453397,cash_credit,femme,True,False,0,180000.0,450000.0,22977.0,450000.0,3a  2m  23j,1.0,0.13,36.0,Secondary _ secondary special,Celibataire
-260558,cash_credit,femme,False,False,0,202500.0,203301.0,20961.0,175500.0,6a  12m  2j,2.0,0.1,53.0,Secondary _ secondary special,Marie
-295831,cash_credit,femme,True,False,0,135000.0,148500.0,10044.0,148500.0,10a  5m  23j,2.0,0.07,31.0,Secondary _ secondary special,Marie
-411362,cash_credit,femme,True,False,1,180000.0,299772.0,16866.0,247500.0,1a  6m  8j,3.0,0.09,37.0,Incomplete higher,Marie
-223606,cash_credit,homme,True,False,0,270000.0,573408.0,23152.5,495000.0,7a  1m  21j,2.0,0.09,35.0,Secondary _ secondary special,Marie
-280458,cash_credit,femme,True,False,0,112500.0,96786.0,10399.5,85500.0,3a  8m  20j,2.0,0.09,30.0,Secondary _ secondary special,Marie
-142202,cash_credit,femme,False,True,0,157500.0,450000.0,27193.5,450000.0,6a  6m  12j,2.0,0.17,44.0,Secondary _ secondary special,Marie
-427781,cash_credit,homme,False,False,0,76500.0,761067.06,35397.0,657000.0,Non connue,2.0,0.46,65.0,Secondary _ secondary special,Marie
-150064,cash_credit,homme,False,False,0,171000.0,450000.0,34825.5,450000.0,Non connue,2.0,0.2,66.0,Secondary _ secondary special,Marie
-305811,cash_credit,homme,False,True,1,157500.0,1125000.0,40540.5,1125000.0,6a  10m  12j,3.0,0.26,29.0,Higher education,Marie
-263974,cash_credit,homme,False,False,1,90000.0,285723.0,20448.0,238500.0,9a  10m  8j,3.0,0.23,41.0,Secondary _ secondary special,Marie
+115030,cash_credit,homme,True,False,0,184500.0,786528.0,50395.5,720000.0,nan,2.0,0.27314633,61.0,Secondary _ secondary special,Marrie
+188264,cash_credit,femme,False,False,2,135000.0,387000.0,14719.5,387000.0,1a  1m  18j,3.0,0.10903333,32.0,Secondary _ secondary special,Celibataire
+230236,cash_credit,homme,False,False,0,382500.0,1258650.0,52074.0,1125000.0,2a  11m  5j,2.0,0.13614118,58.0,Secondary _ secondary special,Marrie
+135960,cash_credit,femme,True,False,1,225000.0,1569285.0,62365.5,1345500.0,0a  2m  24j,3.0,0.27718,29.0,Secondary _ secondary special,Marrie
+336407,cash_credit,homme,False,False,1,112500.0,1032093.0,42723.0,922500.0,2a  9m  5j,3.0,0.37976,29.0,Secondary _ secondary special,Marrie
+223288,cash_credit,homme,False,False,0,202500.0,630000.0,50643.0,630000.0,4a  8m  6j,2.0,0.2500889,45.0,Secondary _ secondary special,PACS
+309125,cash_credit,homme,False,False,1,180000.0,278460.0,21676.5,225000.0,3a  2m  20j,3.0,0.120425,34.0,Secondary _ secondary special,Marrie
+300544,cash_credit,femme,True,False,2,202500.0,1546020.0,45333.0,1350000.0,3a  2m  23j,4.0,0.22386667,34.0,Secondary _ secondary special,Marrie
+353036,cash_credit,homme,False,True,0,76500.0,199080.0,11556.0,157500.0,3a  11m  0j,2.0,0.15105882,29.0,Secondary _ secondary special,Marrie
+307675,cash_credit,femme,True,True,0,126000.0,137520.0,5314.5,90000.0,0a  9m  9j,2.0,0.04217857,56.0,Secondary _ secondary special,PACS
+362263,cash_credit,homme,True,True,0,67500.0,78192.0,6268.5,67500.0,nan,2.0,0.09286667,56.0,Secondary _ secondary special,Marrie
+106914,cash_credit,homme,True,False,0,112500.0,256500.0,18792.0,256500.0,7a  6m  23j,2.0,0.16704,50.0,Secondary _ secondary special,Marrie
+348509,cash_credit,homme,True,True,0,67500.0,728460.0,38938.5,675000.0,nan,2.0,0.5768667,58.0,Higher education,Marrie
+278863,cash_credit,homme,False,False,0,135000.0,178213.5,13932.0,144000.0,0a  7m  12j,1.0,0.1032,41.0,Secondary _ secondary special,Separe
+167550,cash_credit,femme,False,False,1,270000.0,894501.0,91786.5,855000.0,15a  7m  12j,3.0,0.33995,50.0,Secondary _ secondary special,Marrie
+127447,cash_credit,homme,False,False,0,81000.0,835380.0,33259.5,675000.0,nan,2.0,0.41061112,61.0,Secondary _ secondary special,Marrie
+215419,cash_credit,homme,False,False,1,202500.0,787500.0,20902.5,787500.0,17a  12m  5j,2.0,0.10322222,45.0,Higher education,Separe
+281404,cash_credit,homme,False,False,0,162000.0,180000.0,12159.0,180000.0,2a  4m  12j,1.0,0.075055555,50.0,Secondary _ secondary special,Celibataire
+138834,cash_credit,femme,False,False,0,157500.0,170640.0,11533.5,135000.0,1a  0m  14j,2.0,0.07322857,44.0,Secondary _ secondary special,PACS
+445369,cash_credit,homme,False,True,0,157500.0,450000.0,32746.5,450000.0,2a  11m  29j,1.0,0.2079143,43.0,Secondary _ secondary special,Celibataire
+410085,cash_credit,homme,False,False,2,202500.0,549882.0,17869.5,459000.0,3a  3m  23j,4.0,0.088244446,34.0,Secondary _ secondary special,Marrie
+346044,cash_credit,homme,False,True,2,67500.0,436032.0,20457.0,360000.0,1a  11m  9j,4.0,0.30306667,34.0,Secondary _ secondary special,Marrie
+321419,cash_credit,femme,True,True,1,382500.0,900000.0,46084.5,900000.0,9a  11m  20j,3.0,0.120482355,44.0,Secondary _ secondary special,Marrie
+218587,cash_credit,femme,False,True,0,121500.0,119925.0,12915.0,112500.0,2a  11m  9j,1.0,0.10629629,27.0,Incomplete higher,Celibataire
+108207,cash_credit,femme,False,False,1,315000.0,810000.0,41485.5,810000.0,2a  1m  21j,3.0,0.1317,36.0,Secondary _ secondary special,Marrie
+209692,cash_credit,homme,False,False,0,225000.0,601470.0,29065.5,450000.0,9a  8m  26j,2.0,0.12918,46.0,Secondary _ secondary special,PACS
+358967,cash_credit,homme,False,False,0,90000.0,668304.0,26631.0,540000.0,nan,1.0,0.2959,63.0,Secondary _ secondary special,veuf_veuve
+102640,cash_credit,homme,False,False,3,112500.0,239850.0,23364.0,225000.0,0a  11m  12j,5.0,0.20768,38.0,Secondary _ secondary special,Marrie
+410992,cash_credit,femme,False,False,0,135000.0,225000.0,10039.5,225000.0,8a  5m  24j,2.0,0.07436667,42.0,Secondary _ secondary special,Marrie
+110619,cash_credit,homme,False,False,0,81000.0,942300.0,27549.0,675000.0,11a  9m  3j,2.0,0.3401111,59.0,Higher education,Marrie
+433817,cash_credit,homme,True,True,0,94500.0,253377.0,9648.0,211500.0,nan,2.0,0.10209524,57.0,Higher education,Marrie
+287903,cash_credit,homme,False,False,0,99000.0,107820.0,4878.0,90000.0,0a  3m  8j,1.0,0.049272727,60.0,Higher education,Separe
+179787,cash_credit,homme,False,False,1,202500.0,327024.0,21028.5,270000.0,11a  10m  11j,3.0,0.10384444,31.0,Secondary _ secondary special,Marrie
+110726,cash_credit,homme,True,False,0,607500.0,2085120.0,72607.5,1800000.0,22a  10m  17j,1.0,0.11951852,57.0,Secondary _ secondary special,Celibataire
+432680,cash_credit,femme,True,False,2,202500.0,835605.0,27085.5,697500.0,4a  7m  2j,4.0,0.13375555,45.0,Secondary _ secondary special,Marrie
+452669,cash_credit,homme,False,False,0,90000.0,239787.0,27247.5,207000.0,4a  11m  0j,1.0,0.30275,28.0,Higher education,Celibataire
+172371,cash_credit,homme,False,False,0,112500.0,942300.0,27135.0,675000.0,nan,1.0,0.2412,58.0,Higher education,Separe
+137530,cash_credit,femme,True,True,2,382500.0,1288350.0,37053.0,1125000.0,12a  11m  15j,4.0,0.09687059,49.0,Higher education,Marrie
+420009,cash_credit,homme,False,False,1,99000.0,450000.0,23431.5,450000.0,0a  10m  6j,2.0,0.23668182,37.0,Secondary _ secondary special,Celibataire
+419646,cash_credit,homme,True,False,0,46350.0,171000.0,11898.0,171000.0,nan,2.0,0.25669903,58.0,Secondary _ secondary special,Marrie
+300795,revolving,femme,True,True,0,135000.0,337500.0,16875.0,337500.0,2a  9m  15j,2.0,0.125,49.0,Secondary _ secondary special,Marrie
+227948,revolving,homme,False,False,0,180000.0,225000.0,11250.0,225000.0,3a  8m  23j,2.0,0.0625,30.0,Higher education,Marrie
+141354,cash_credit,homme,False,False,0,405000.0,723996.0,37093.5,585000.0,1a  12m  0j,1.0,0.09158889,31.0,Higher education,Celibataire
+160967,cash_credit,homme,True,True,0,180000.0,704844.0,34038.0,630000.0,19a  3m  6j,1.0,0.1891,49.0,Secondary _ secondary special,Celibataire
+386306,cash_credit,homme,False,False,0,72000.0,157500.0,8172.0,157500.0,nan,1.0,0.1135,55.0,Secondary _ secondary special,Celibataire
+119807,cash_credit,homme,True,False,0,112500.0,514777.5,49005.0,477000.0,4a  12m  9j,2.0,0.4356,54.0,Secondary _ secondary special,Marrie
+334900,cash_credit,femme,True,False,0,225000.0,1288350.0,37800.0,1125000.0,7a  11m  20j,2.0,0.168,36.0,Secondary _ secondary special,Marrie
+136112,cash_credit,homme,False,False,0,315000.0,728460.0,69295.5,675000.0,3a  3m  11j,1.0,0.21998571,35.0,Higher education,Celibataire
+119299,cash_credit,homme,False,False,3,157500.0,675000.0,34596.0,675000.0,8a  5m  6j,5.0,0.21965714,28.0,Higher education,Marrie
+453228,cash_credit,femme,False,False,0,135000.0,302341.5,27859.5,261000.0,7a  9m  14j,2.0,0.20636667,34.0,Secondary _ secondary special,PACS
+433490,cash_credit,femme,False,True,0,202500.0,528633.0,36922.5,472500.0,1a  12m  2j,2.0,0.18233334,45.0,Secondary _ secondary special,Marrie
+396909,cash_credit,femme,True,False,0,225000.0,1293502.5,37948.5,1129500.0,3a  1m  21j,2.0,0.16866,52.0,Higher education,Marrie
+275073,cash_credit,homme,False,True,1,117000.0,412560.0,11475.0,270000.0,0a  10m  17j,3.0,0.098076925,33.0,Secondary _ secondary special,PACS
+258668,cash_credit,femme,True,False,2,180000.0,263686.5,16258.5,238500.0,0a  3m  12j,4.0,0.090325,39.0,Secondary _ secondary special,Marrie
+330952,cash_credit,homme,True,True,0,112500.0,225000.0,17775.0,225000.0,7a  2m  23j,2.0,0.158,52.0,Higher education,Marrie
+389108,cash_credit,homme,False,True,0,112500.0,544491.0,15916.5,454500.0,nan,1.0,0.14148,65.0,Secondary _ secondary special,Celibataire
+453397,cash_credit,femme,True,False,0,180000.0,450000.0,22977.0,450000.0,3a  2m  23j,1.0,0.12765,36.0,Secondary _ secondary special,Celibataire
+260558,cash_credit,femme,False,False,0,202500.0,203301.0,20961.0,175500.0,6a  12m  2j,2.0,0.10351111,53.0,Secondary _ secondary special,Marrie
+295831,cash_credit,femme,True,False,0,135000.0,148500.0,10044.0,148500.0,10a  5m  23j,2.0,0.0744,31.0,Secondary _ secondary special,Marrie
+411362,cash_credit,femme,True,False,1,180000.0,299772.0,16866.0,247500.0,1a  6m  8j,3.0,0.0937,37.0,Incomplete higher,Marrie
+223606,cash_credit,homme,True,False,0,270000.0,573408.0,23152.5,495000.0,7a  1m  21j,2.0,0.08575,35.0,Secondary _ secondary special,Marrie
+280458,cash_credit,femme,True,False,0,112500.0,96786.0,10399.5,85500.0,3a  8m  20j,2.0,0.09244,30.0,Secondary _ secondary special,Marrie
+142202,cash_credit,femme,False,True,0,157500.0,450000.0,27193.5,450000.0,6a  6m  12j,2.0,0.17265715,44.0,Secondary _ secondary special,Marrie
+427781,cash_credit,homme,False,False,0,76500.0,761067.0,35397.0,657000.0,nan,2.0,0.46270588,65.0,Secondary _ secondary special,Marrie
+150064,cash_credit,homme,False,False,0,171000.0,450000.0,34825.5,450000.0,nan,2.0,0.2036579,66.0,Secondary _ secondary special,Marrie
+305811,cash_credit,homme,False,True,1,157500.0,1125000.0,40540.5,1125000.0,6a  10m  12j,3.0,0.2574,29.0,Higher education,Marrie
+263974,cash_credit,homme,False,False,1,90000.0,285723.0,20448.0,238500.0,9a  10m  8j,3.0,0.2272,41.0,Secondary _ secondary special,Marrie
 208408,revolving,homme,False,False,0,112500.0,135000.0,6750.0,135000.0,3a  6m  18j,1.0,0.06,42.0,Secondary _ secondary special,Separe
-227817,cash_credit,homme,False,False,0,148500.0,450000.0,23107.5,450000.0,0a  6m  9j,1.0,0.16,54.0,Secondary _ secondary special,Celibataire
-208598,revolving,homme,False,False,0,85500.0,270000.0,13500.0,270000.0,Non connue,1.0,0.16,56.0,Secondary _ secondary special,Separe
-193024,cash_credit,homme,True,True,0,112500.0,490495.53,27387.0,454500.0,7a  2m  29j,2.0,0.24,41.0,Secondary _ secondary special,Marie
-135626,cash_credit,femme,True,False,1,112500.0,573408.0,29407.5,495000.0,6a  10m  2j,3.0,0.26,31.0,Secondary _ secondary special,Marie
-296284,cash_credit,homme,False,False,0,126000.0,296280.0,15255.0,225000.0,3a  2m  12j,2.0,0.12,50.0,Secondary _ secondary special,Marie
-455028,cash_credit,homme,False,False,1,157500.0,381528.0,24970.5,315000.0,1a  4m  15j,3.0,0.16,26.0,Higher education,PACS
-298119,cash_credit,femme,False,False,0,135000.0,900000.0,26446.5,900000.0,Non connue,2.0,0.2,61.0,Secondary _ secondary special,Marie
-441310,cash_credit,homme,True,False,1,315000.0,790830.0,52978.5,675000.0,12a  2m  26j,3.0,0.17,49.0,Secondary _ secondary special,PACS
-329346,cash_credit,femme,False,True,0,180000.0,339948.0,27387.0,315000.0,1a  2m  23j,2.0,0.15,35.0,Incomplete higher,Marie
-358684,revolving,femme,True,False,0,292500.0,360000.0,18000.0,360000.0,Non connue,2.0,0.06,63.0,Secondary _ secondary special,Marie
-393399,cash_credit,femme,True,False,2,180000.0,1057500.0,30919.5,1057500.0,7a  9m  6j,4.0,0.17,40.0,Secondary _ secondary special,Marie
-370384,cash_credit,homme,False,False,0,180000.0,358443.0,13639.5,252000.0,14a  12m  2j,1.0,0.08,45.0,Secondary _ secondary special,Separe
-329743,cash_credit,femme,True,False,0,157500.0,526491.0,32337.0,454500.0,20a  10m  24j,2.0,0.21,40.0,Secondary _ secondary special,PACS
-200797,cash_credit,homme,False,False,2,90000.0,598486.5,21496.5,454500.0,17a  12m  18j,4.0,0.24,37.0,Incomplete higher,Marie
-148750,cash_credit,homme,False,True,0,119250.0,331920.0,17077.5,225000.0,Non connue,2.0,0.14,64.0,Secondary _ secondary special,Marie
-193927,cash_credit,homme,True,False,1,472500.0,358074.0,18409.5,256500.0,3a  9m  5j,2.0,0.04,40.0,Higher education,Separe
-394204,revolving,femme,False,True,0,270000.0,1350000.0,67500.0,1350000.0,5a  4m  2j,2.0,0.25,31.0,Higher education,Marie
-144543,cash_credit,femme,True,False,1,225000.0,663669.0,26775.0,504000.0,8a  10m  15j,3.0,0.12,28.0,Secondary _ secondary special,Marie
-227712,cash_credit,femme,True,True,0,180000.0,1113840.0,47191.5,900000.0,12a  5m  3j,2.0,0.26,40.0,Higher education,Marie
-252695,revolving,homme,False,False,0,90000.0,135000.0,6750.0,135000.0,0a  4m  17j,1.0,0.08,59.0,Secondary _ secondary special,veuf_veuve
-308800,cash_credit,homme,False,True,0,157500.0,446931.0,16051.5,369000.0,20a  13m  27j,1.0,0.1,55.0,Higher education,Separe
-276837,revolving,homme,False,True,0,54000.0,180000.0,9000.0,180000.0,Non connue,1.0,0.17,56.0,Secondary _ secondary special,Celibataire
-255155,cash_credit,homme,False,False,0,148500.0,383760.0,40428.0,360000.0,Non connue,1.0,0.27,55.0,Secondary _ secondary special,Separe
-363912,cash_credit,homme,False,False,1,157500.0,715095.06,49900.5,675000.0,4a  3m  27j,3.0,0.32,44.0,Secondary _ secondary special,Marie
-100161,cash_credit,homme,False,False,0,90000.0,370629.0,13972.5,306000.0,7a  2m  18j,2.0,0.16,44.0,Secondary _ secondary special,Marie
-334824,revolving,femme,True,False,2,202500.0,585000.0,29250.0,585000.0,6a  8m  5j,4.0,0.14,39.0,Higher education,Marie
-294948,cash_credit,homme,True,False,0,157500.0,450000.0,22018.5,450000.0,9a  2m  11j,2.0,0.14,31.0,Higher education,PACS
-275003,cash_credit,homme,True,False,0,180000.0,1125000.0,33025.5,1125000.0,0a  8m  18j,2.0,0.18,40.0,Higher education,PACS
+227817,cash_credit,homme,False,False,0,148500.0,450000.0,23107.5,450000.0,0a  6m  9j,1.0,0.15560606,54.0,Secondary _ secondary special,Celibataire
+208598,revolving,homme,False,False,0,85500.0,270000.0,13500.0,270000.0,nan,1.0,0.15789473,56.0,Secondary _ secondary special,Separe
+193024,cash_credit,homme,True,True,0,112500.0,490495.5,27387.0,454500.0,7a  2m  29j,2.0,0.24344,41.0,Secondary _ secondary special,Marrie
+135626,cash_credit,femme,True,False,1,112500.0,573408.0,29407.5,495000.0,6a  10m  2j,3.0,0.2614,31.0,Secondary _ secondary special,Marrie
+296284,cash_credit,homme,False,False,0,126000.0,296280.0,15255.0,225000.0,3a  2m  12j,2.0,0.12107143,50.0,Secondary _ secondary special,Marrie
+455028,cash_credit,homme,False,False,1,157500.0,381528.0,24970.5,315000.0,1a  4m  15j,3.0,0.15854286,26.0,Higher education,PACS
+298119,cash_credit,femme,False,False,0,135000.0,900000.0,26446.5,900000.0,nan,2.0,0.1959,61.0,Secondary _ secondary special,Marrie
+441310,cash_credit,homme,True,False,1,315000.0,790830.0,52978.5,675000.0,12a  2m  26j,3.0,0.16818571,49.0,Secondary _ secondary special,PACS
+329346,cash_credit,femme,False,True,0,180000.0,339948.0,27387.0,315000.0,1a  2m  23j,2.0,0.15215,35.0,Incomplete higher,Marrie
+358684,revolving,femme,True,False,0,292500.0,360000.0,18000.0,360000.0,nan,2.0,0.06153846,63.0,Secondary _ secondary special,Marrie
+393399,cash_credit,femme,True,False,2,180000.0,1057500.0,30919.5,1057500.0,7a  9m  6j,4.0,0.171775,40.0,Secondary _ secondary special,Marrie
+370384,cash_credit,homme,False,False,0,180000.0,358443.0,13639.5,252000.0,14a  12m  2j,1.0,0.075775,45.0,Secondary _ secondary special,Separe
+329743,cash_credit,femme,True,False,0,157500.0,526491.0,32337.0,454500.0,20a  10m  24j,2.0,0.20531428,40.0,Secondary _ secondary special,PACS
+200797,cash_credit,homme,False,False,2,90000.0,598486.5,21496.5,454500.0,17a  12m  18j,4.0,0.23885,37.0,Incomplete higher,Marrie
+148750,cash_credit,homme,False,True,0,119250.0,331920.0,17077.5,225000.0,nan,2.0,0.14320755,64.0,Secondary _ secondary special,Marrie
+193927,cash_credit,homme,True,False,1,472500.0,358074.0,18409.5,256500.0,3a  9m  5j,2.0,0.038961906,40.0,Higher education,Separe
+394204,revolving,femme,False,True,0,270000.0,1350000.0,67500.0,1350000.0,5a  4m  2j,2.0,0.25,31.0,Higher education,Marrie
+144543,cash_credit,femme,True,False,1,225000.0,663669.0,26775.0,504000.0,8a  10m  15j,3.0,0.119,28.0,Secondary _ secondary special,Marrie
+227712,cash_credit,femme,True,True,0,180000.0,1113840.0,47191.5,900000.0,12a  5m  3j,2.0,0.262175,40.0,Higher education,Marrie
+252695,revolving,homme,False,False,0,90000.0,135000.0,6750.0,135000.0,0a  4m  17j,1.0,0.075,59.0,Secondary _ secondary special,veuf_veuve
+308800,cash_credit,homme,False,True,0,157500.0,446931.0,16051.5,369000.0,20a  13m  27j,1.0,0.10191429,55.0,Higher education,Separe
+276837,revolving,homme,False,True,0,54000.0,180000.0,9000.0,180000.0,nan,1.0,0.16666667,56.0,Secondary _ secondary special,Celibataire
+255155,cash_credit,homme,False,False,0,148500.0,383760.0,40428.0,360000.0,nan,1.0,0.27224243,55.0,Secondary _ secondary special,Separe
+363912,cash_credit,homme,False,False,1,157500.0,715095.0,49900.5,675000.0,4a  3m  27j,3.0,0.31682858,44.0,Secondary _ secondary special,Marrie
+100161,cash_credit,homme,False,False,0,90000.0,370629.0,13972.5,306000.0,7a  2m  18j,2.0,0.15525,44.0,Secondary _ secondary special,Marrie
+334824,revolving,femme,True,False,2,202500.0,585000.0,29250.0,585000.0,6a  8m  5j,4.0,0.14444445,39.0,Higher education,Marrie
+294948,cash_credit,homme,True,False,0,157500.0,450000.0,22018.5,450000.0,9a  2m  11j,2.0,0.1398,31.0,Higher education,PACS
+275003,cash_credit,homme,True,False,0,180000.0,1125000.0,33025.5,1125000.0,0a  8m  18j,2.0,0.183475,40.0,Higher education,PACS
 339194,revolving,homme,False,False,0,225000.0,675000.0,33750.0,675000.0,1a  1m  6j,1.0,0.15,24.0,Higher education,Celibataire
-121912,cash_credit,homme,False,False,0,60750.0,942300.0,30528.0,675000.0,Non connue,2.0,0.5,57.0,Secondary _ secondary special,Marie
-240301,cash_credit,femme,True,True,0,180000.0,1540867.5,45184.5,1345500.0,0a  11m  6j,2.0,0.25,54.0,Secondary _ secondary special,Marie
-239450,cash_credit,homme,False,False,0,202500.0,247500.0,23386.5,247500.0,2a  11m  9j,2.0,0.12,62.0,Higher education,PACS
+121912,cash_credit,homme,False,False,0,60750.0,942300.0,30528.0,675000.0,nan,2.0,0.50251853,57.0,Secondary _ secondary special,Marrie
+240301,cash_credit,femme,True,True,0,180000.0,1540867.5,45184.5,1345500.0,0a  11m  6j,2.0,0.251025,54.0,Secondary _ secondary special,Marrie
+239450,cash_credit,homme,False,False,0,202500.0,247500.0,23386.5,247500.0,2a  11m  9j,2.0,0.11548889,62.0,Higher education,PACS
