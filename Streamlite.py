@@ -5,8 +5,18 @@ import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
+import json
+import requests
 from sklearn.neighbors import NearestNeighbors
 
+def load_model(list_id):
+    url = 'https://apiscoring.herokuapp.com/'
+    myobj = {'ids':list_id}
+
+    x = requests.post(url, json = myobj)
+
+    f = json.loads(x.text)
+    return pd.Series(f)
 
 
 
@@ -126,14 +136,6 @@ with st.expander("Description de l'application"):
 def open_test_data(url):
     return open(url, 'rb')
 
-def load_model(df_scaled):
-    infile = open('LightGBMModel.joblib', 'rb') 
-    lgbm = joblib.load(infile) 
-    infile.close()
-    result = pd.Series(lgbm.predict_proba(df_scaled)[:, 1])
-    result = result.apply(lambda x: np.where(x > 0.44, "Non Solvable", "Solvable"))
-    return result
-
 def nearest(df_scaled, df, Customer_id, solvable = True):
     if solvable:
         index_near = df[df['Solvabilite'] == 'Solvable'].index.tolist()
@@ -160,10 +162,8 @@ def df_data():
         df = pd.read_csv(f)
         #df = df.drop('Unnamed: 0', axis = 1)
         df.set_index('SK_ID_CURR',inplace = True)
-        df[['Revenus', 'Montant_credit', 'Cout_annuel_credit', 'Valeur_bien_finance',
-       'Annuite/revenus']] = df[['Revenus', 'Montant_credit', 'Cout_annuel_credit', 'Valeur_bien_finance',
-       'Annuite/revenus']].round(2)
-        df['Solvabilite'] = load_model(df_data_scaled()).values
+        
+        df['Solvabilite'] = load_model(df.index).values
     return df
 
 @st.cache
