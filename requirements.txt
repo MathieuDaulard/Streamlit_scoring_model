@@ -2,8 +2,8 @@ matplotlib
 numpy
 pandas
 streamlit
-joblib
 matplotlib
 plotly
 sklearn
 lightgbm
+requests
